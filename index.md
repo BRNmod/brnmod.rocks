@@ -4,7 +4,9 @@ layout: page
 
 ## BRNmod
 BRNmod is a fork of [CyanogenMod](http://www.cyanogenmod.org/) with all features of CM and
-some modifications for super and privacy aware users.
+some modifications for power and privacy aware users.
+
+**This ROM is intended for power users**, you should expect bugs and know how to fix problems by yourself.
 
 
 ### Features
@@ -19,6 +21,11 @@ some modifications for super and privacy aware users.
 ### ROM Status
 * Nightly Builds
 * OTA Updater
+
+### TODO
+* Remove CM Stats
+* Working Playstore / Alternative Playstore Client
+* Built in [Smart Network](http://forum.xda-developers.com/xposed/modules/mod-t2908637) functions
 
 ### Supported Devices
 * Nexus 4 (mako)
