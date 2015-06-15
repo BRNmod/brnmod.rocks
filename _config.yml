@@ -1,0 +1,12 @@
+# Site settings
+title: BRNmod
+email: contact@brnmod.rocks
+description: >
+  BRNmod is a fork of CyanogenMod for super and privacy aware users.
+baseurl: ""
+url: "http://brnmod.rocks"
+#twitter_username: jekyllrb
+github_username:  BRNmod
+
+# Build settings
+markdown: kramdown
