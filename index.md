@@ -10,8 +10,9 @@ some modifications for super and privacy aware users.
 ### Features
 * Build in [F-Droid](https://f-droid.org/)
 * Open source Google replacements
-    * Play Services: [µg GmsCore](https://github.com/microg/android_packages_apps_GmsCore)
+    * Play Services and Maps API v2: [µg GmsCore](https://github.com/microg/android_packages_apps_GmsCore)
     * Location Services: [µg UnifiedNlp](https://github.com/microg/android_packages_apps_UnifiedNlp)
+    * Maps API v1: [NOGAPPS-MapsAPI](https://github.com/mar-v-in/MapsAPI)
 * Cleaned trusted CA based on [denschub/ca-bundle](https://github.com/denschub/ca-bundle)
 * SetupWizard with common settings
 
