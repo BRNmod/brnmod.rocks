@@ -10,25 +10,26 @@ some modifications for power and privacy aware users.
 
 
 ### Features
-* Build in [F-Droid](https://f-droid.org/)
+* Built-in [F-Droid](https://f-droid.org/)
 * Open source Google replacements
     * Play Services and Maps API v2: [µg GmsCore](https://github.com/microg/android_packages_apps_GmsCore)
     * Location Services: [µg UnifiedNlp](https://github.com/microg/android_packages_apps_UnifiedNlp)
     * Maps API v1: [NOGAPPS-MapsAPI](https://github.com/mar-v-in/MapsAPI)
 * Cleaned trusted CA based on [denschub/ca-bundle](https://github.com/denschub/ca-bundle)
 * SetupWizard with common settings
+* CM Stats removed
 
 ### ROM Status
 * Nightly Builds
 * OTA Updater
 
 ### TODO
-* Remove CM Stats
 * Working Playstore / Alternative Playstore Client
-* Built in [Smart Network](http://forum.xda-developers.com/xposed/modules/mod-t2908637) functions
+* Built-in [Smart Network](http://forum.xda-developers.com/xposed/modules/mod-t2908637) functions
 
 ### Supported Devices
 * Nexus 4 (mako)
+* Moto G 4G (peregrine)
 
 ### Download
 * [Nightlies](https://files.brnmod.rocks/brnmod/12.1/nightlies/)
