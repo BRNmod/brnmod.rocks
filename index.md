@@ -28,8 +28,9 @@ some modifications for power and privacy aware users.
 * Built-in [Smart Network](http://forum.xda-developers.com/xposed/modules/mod-t2908637) functions
 
 ### Supported Devices
-* Nexus 4 (mako)
 * Moto G 4G (peregrine)
+* Nexus 4 (mako)
+* Nexus 7 (Wi-Fi, 2012 version) (grouper)
 
 ### Download
 * [Nightlies](https://files.brnmod.rocks/brnmod/12.1/nightlies/)
