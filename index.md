@@ -35,4 +35,4 @@ some modifications for power and privacy aware users.
 * Nexus 7 (Wi-Fi, 2012 version) (grouper)
 
 ### Download
-* [Nightlies](https://files.brnmod.rocks/brnmod/12.1/nightlies/)
+* [Nightlies](https://dl.brnmod.rocks/)
