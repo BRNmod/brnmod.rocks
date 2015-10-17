@@ -45,3 +45,5 @@ some modifications for power and privacy aware users.
 [IRC](http://webchat.freenode.net/?channels=BRNmod) on freenode:
 
 * **#BRNmod**
+
+[XDA Thread](http://forum.xda-developers.com/android/development/brnmod-12-1-titan-peregrine-thea-mako-t3227616)
