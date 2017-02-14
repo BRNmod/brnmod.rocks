@@ -5,6 +5,8 @@ layout: page
 ![BRNmod Logo](img/logo.png){: .logo}
 
 ## BRNmod
+**!!! NOT MAINTAINED !!!**
+
 BRNmod is a fork of [CyanogenMod](http://www.cyanogenmod.org/) with all features of CM and
 some modifications for power and privacy aware users.
 
